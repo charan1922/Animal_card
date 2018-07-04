@@ -1,0 +1,36 @@
+/* add your CSS here */
+.card {
+  
+  width: 350px;
+  padding: 20px 10px;
+  border: 1px solid #e5e5e5;
+  box-shadow: 6px 6px 2px #e5e5e5;
+}
+
+img {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+h3 {
+  font-size: 25px;
+  font-weight: 900;
+}
+
+.bottom {
+  padding: 10px;
+  border: 1px solid #e5e5e5;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul li:first-child {
+  background-color: pink;
+}
+ul li:last-child {
+  background-color: pink;
+}
